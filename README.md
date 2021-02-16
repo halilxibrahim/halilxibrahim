@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, this is Halil İbrahim Kamacı 
+ I am Article writer. I am a value added developer working on Front End, and Mobile App Development.
 
 <!--
 **halilxibrahim/halilxibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
