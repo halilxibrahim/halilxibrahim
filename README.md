@@ -2,7 +2,7 @@
 <img src="./halil.svg"></img>  
 
 
-<h2 align="center">A Software Developer from World! 👽</h2>
+<h2 align="center">A Software Developer from Milky Way! 👽</h2>
 
 
 
