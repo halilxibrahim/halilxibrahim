@@ -7,12 +7,12 @@
 
 
 ![GitHub followers](https://img.shields.io/github/followers/halilxibrahim?label=Follow%20my%20GitHub&style=social)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_5F-GyEGIGXw29yymZOg8w?label=People%20subscribers%20my%20channel&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/dev_kamaci?label=People%20following%20me%20on%20twitter&style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC_5F-GyEGIGXw29yymZOg8w?label=Total%20views%20on%20my%20channel&style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_5F-GyEGIGXw29yymZOg8w?label=People%20subscribers%20my%20channel&style=social)![Twitter Follow](https://img.shields.io/twitter/follow/dev_kamaci?label=People%20following%20me%20on%20twitter&style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC_5F-GyEGIGXw29yymZOg8w?label=Total%20views%20on%20my%20channel&style=social)
 
 
 ### 📘 About Me 
 ### Hi there 👋, I am [Halil ibrahim](https://www.linkedin.com/in/halil-ibrahim-kamac%C4%B1/), I'm a technical writer in mobile software development at [Mobiler.dev](https://www.mobiler.dev/)
-Sofware Developer specializing in Front End, and Mobile App Development.
+A Sofware Developer specializing in Front End, and Mobile App Development.
 I'm a technical writer on artificial intelligence and aviation.
 Professional experience with the technologies in the **toolbox** below 
 
