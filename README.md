@@ -14,6 +14,13 @@ A Sofware Developer specializing in Front End, and Mobile App Development.
 I'm a technical writer on artificial intelligence and aviation.
 Professional experience with the technologies in the **toolbox** below 
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=halilxibrahim&color=blue" alt="halilxibrahim :: Profile Stats"></a>
+<a href="https://www.linkedin.com/in/halilxibrahim/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@halilxibrahim-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:ibrahim_kamaci_06@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ibrahim_kamaci_06@hotmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.instagram.com/halilxibrahim/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-halilxibrahim-blue?style=flat-square&logo=instagram"></a>
+</p>
+
 
 #### 🧰 Toolbox
 
@@ -25,15 +32,13 @@ Professional experience with the technologies in the **toolbox** below
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halilxibrahim&langs_count=8)](https://github.com/halilxibrahim/github-readme-stats)
 
 
-
----
-
-![Halil's GitHub stats](https://github-readme-stats.vercel.app/api?username=halilxibrahim&show_icons=true&theme=radical)
-
-
+<h3 align="center">My GitHub Stats 📊 </h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=halilxibrahim&show_icons=true&theme=synthwave" alt="Halil ibrahim :: Profile Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilxibrahim&langs_count=10&theme=tokyonight&layout=compact" alt="Halil ibrahim :: Top Langs" />
+</p>
 
 
 
