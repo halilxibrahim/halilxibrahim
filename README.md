@@ -16,7 +16,7 @@ Professional experience with the technologies in the **toolbox** below
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=halilxibrahim&color=blue" alt="halilxibrahim :: Profile Stats"></a>
-<a href="https://www.linkedin.com/in/halilxibrahim/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-halilxibrahim-blue?style=flat&logo=linkedin"></a> <a href="https://medium.com/halilxibrahim" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-halilxibrahim-blue?style=flat&logo=medium"></a> <a href="https://www.twitter.com/halilxibrahim_/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-halilxibrahim_-blue?style=flat-square&logo=Twitter"></a>
+<a href="https://www.linkedin.com/in/halilxibrahim/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-halilxibrahim-blue?style=flat&logo=linkedin"></a> <a href="https://medium.com/halilxibrahim" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-halilxibrahim-blue?style=flat&logo=medium"></a> 
 <a href="https://www.instagram.com/halilxibrahim_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-halilxibrahim_-blue?style=flat-square&logo=instagram"></a>
 </p>
 
