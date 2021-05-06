@@ -18,7 +18,7 @@ Professional experience with the technologies in the **toolbox** below
 <img src="https://komarev.com/ghpvc/?username=halilxibrahim&color=blue" alt="halilxibrahim :: Profile Stats"></a>
 <a href="https://www.linkedin.com/in/halilxibrahim/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@halilxibrahim-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:ibrahim_kamaci_06@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ibrahim_kamaci_06@hotmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.instagram.com/halilxibrahim/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-halilxibrahim-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/halilxibrahim_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-halilxibrahim-blue?style=flat-square&logo=instagram"></a>
 </p>
 
 
