@@ -13,7 +13,7 @@
 
 ### 📘 About Me 
 ### Hi there 👋, I am [Halil ibrahim](https://www.linkedin.com/in/halilxibrahim/),
-I'm a technical writer in mobile software development at [Mobiler.dev](https://www.mobiler.dev/).
+I'm a Front End software developer at [Appcent](https://www.appcent.mobi/).
 A Sofware Developer specializing in Front End, and Mobile App Development.
 I'm a technical writer on artificial intelligence and aviation.
 
