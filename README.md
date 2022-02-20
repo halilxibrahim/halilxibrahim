@@ -13,9 +13,9 @@
 
 ### 📘 About Me 
 ### Hi there 👋, I am [Halil ibrahim](https://www.linkedin.com/in/halilxibrahim/),
-I'm a Front End software developeR.
-A Sofware Developer specializing in Front End, and Mobile App Development.
-I'm a technical writer on artificial intelligence and aviation.
+I'm a Front End Developer.
+A Sofware Developer specializing in Front End, and Mobile(React Native) Development.
+I'm a technical writer on Software and Aerospace.
 
 - 📝 I regularly write articles on [My Medium Page](https://medium.com/@halilxibrahim) 
 
