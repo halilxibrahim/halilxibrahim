@@ -1,6 +1,7 @@
 
 <h2 align="center">Hi there👋, This is Halil ibrahim</h2>
-<img src="./x.png"></img>  
+<a href="https://app.daily.dev/halilxibrahim"><img src="https://api.daily.dev/devcards/8cbbcd259ba543d89fcbdfb1d5512333.png?r=5ob" width="400" alt="Halil İbrahim's Dev Card"/></a>
+
 <h2 align="center"> A Software Developer from Milky Way Galaxy ! 👽</h2>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=halilxibrahim&color=blue" alt="halilxibrahim :: Profile Stats"></a>
