@@ -1,6 +1,5 @@
 
 <h2 align="center">Hi there👋, This is Halil ibrahim</h2>
-<a href="https://app.daily.dev/halilxibrahim"><img src="https://api.daily.dev/devcards/8cbbcd259ba543d89fcbdfb1d5512333.png?r=5ob" width="400" alt="Halil İbrahim's Dev Card"/></a>
 
 <h2 align="center"> A Software Developer from Milky Way Galaxy ! 👽</h2>
 <p align="center">
@@ -15,7 +14,7 @@
 ### 📘 About Me 
 ### Hi there 👋, I am [Halil ibrahim](https://www.linkedin.com/in/halilxibrahim/),
 I'm a Front End Developer.
-A Sofware Developer specializing in Front End, and Mobile(React Native) Development.
+A Sofware Developer specializing in Front End Development.Learning  İOS development.
 I'm a technical writer on Software and Aerospace.
 
 - 📝 I regularly write articles on [My Medium Page](https://medium.com/@halilxibrahim) 
