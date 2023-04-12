@@ -14,7 +14,8 @@
 ### 📘 About Me 
 ### Hi there 👋, I am [Halil ibrahim](https://www.linkedin.com/in/halilxibrahim/),
 I'm a Front End Developer.
-A Sofware Developer specializing in Front End Development.Learning  İOS development.
+A Sofware Developer specializing in Front End Development.
+Learning  İOS development.
 I'm a technical writer on Software and Aerospace.
 
 - 📝 I regularly write articles on [My Medium Page](https://medium.com/@halilxibrahim) 
