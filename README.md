@@ -18,7 +18,7 @@ Software Developer that is open to learn new technologies especially in Web and 
 
 - 📝 I regularly write articles on [My Medium Page](https://medium.com/@halilxibrahim) 
 
-- 📫 How to reach me **ibrahim_kamaci_06@hotmail.com**
+- 📫 How to reach me **halil.kamaci@icloud.com**
 
 ---
 
