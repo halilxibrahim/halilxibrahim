@@ -13,8 +13,11 @@
 
 ### 📘 About Me 
 ### Hi there 👋, I am [Halil ibrahim](https://www.linkedin.com/in/halilxibrahim/),
+Software Developer, especially experienced in JavaScript stack 
+🚀Frontend: React.js, Next.js, React Native, Vue.js | 
+🚀Backend: Node.js, Express.js,|
+🎯 JavaScript & TypeScript|
 
-Software Developer that is open to learn new technologies especially in Web and Mobile programming. JavaScript stack (Such as React.js, React Native etc.). Working with the aim of improving his knowledge in these fields.
 
 - 📝 I regularly write articles on [My Medium Page](https://medium.com/@halilxibrahim) 
 
