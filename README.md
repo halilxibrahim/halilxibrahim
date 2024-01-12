@@ -13,7 +13,6 @@
 
 ### 📘 About Me 
 ### Hello 👋, I'm [Halil ibrahim](https://www.linkedin.com/in/halilxibrahim/), a Software Developer ,
-Software Developer, especially experienced in JavaScript stack.
 <br/>
 🎯 JavaScript & TypeScript |  Swift 
 <br/>
