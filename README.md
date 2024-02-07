@@ -14,7 +14,7 @@
 ### 📘 About Me 
 ### Hello 👋, I'm [Halil ibrahim](https://www.linkedin.com/in/halilxibrahim/), a Software Developer ,
 <br/>
-Full-Stack Developer | MERN Stack Developer | Mobile Developer (React Native -  Swift) |  iOS development Enthusiast
+Full-Stack Developer | MERN Stack Developer | Mobile Developer (React Native -  Swift) |  Indie iOS Developer
 <br/>
 <br/>
 🎯 JavaScript & TypeScript |  Swift 
@@ -22,7 +22,7 @@ Full-Stack Developer | MERN Stack Developer | Mobile Developer (React Native - �
 <br/>
 🚀 Frontend: React.js, Next.js.
 <br/>
-🚀 Mobile: React Native (JS, TS),  Swift
+🚀 Mobile: React Native (JS, TS),  Swift, UI Kit, Swift UI
 <br/>
 🚀 Backend: Node.js, Express.js
 <br/>
