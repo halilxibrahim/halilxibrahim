@@ -2,6 +2,7 @@
 <h2 align="center">Hi there👋, This is Halil ibrahim</h2>
 
 <h2 align="center"> A Software Developer from Milky Way Galaxy ! 👽</h2>
+<img src="https://media.licdn.com/dms/image/D4D16AQG-VVIpZPAdEQ/profile-displaybackgroundimage-shrink_350_1400/0/1707992174195?e=1713398400&v=beta&t=epcE-8fbezr-wCFZdoPmSXhhdr16TJpIVVV-exSfih8"></a>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=halilxibrahim&color=blue" alt="halilxibrahim :: Profile Stats"></a>
 <a href="https://www.linkedin.com/in/halilxibrahim/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-halilxibrahim-blue?style=flat&logo=linkedin"></a> <a href="https://medium.com/@halilxibrahim" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-halilxibrahim-blue?style=flat&logo=medium"></a> 
