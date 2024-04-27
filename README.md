@@ -12,7 +12,7 @@
 
 
 ### 📘 About Me 
-### Hello 👋, I'm [Halil ibrahim](https://www.linkedin.com/in/halilxibrahim/), a Software Developer | Full-Stack Developer |  💻  React & React Native Specialist
+### Hello 👋, I'm [Halil ibrahim](https://www.linkedin.com/in/halilxibrahim/), a Software Developer | JavaScript Developer |  💻  React & React Native Specialist
 
 <br/>
 👋 Hello, I'm Halil ibrahim, a seasoned Software Developer with three years of experience, specializing in creating robust digital solutions for real-world challenges.
