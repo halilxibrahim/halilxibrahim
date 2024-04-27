@@ -17,7 +17,7 @@
 <br/>
 👋 Hello, I'm Halil ibrahim, a seasoned Software Developer with three years of experience, specializing in creating robust digital solutions for real-world challenges.
 
-🎯 My core expertise lies in JavaScript and TypeScript, along with proficiency in OOP Languages such as C++, C#, and Python.
+🎯 My core expertise lies in JavaScript and TypeScript, along with proficiency in OOP Languages such as C++ and Python.
 
 🚀 I excel in Frontend development using HTML/CSS, Tailwind CSS, JavaScript, TypeScript, React.js, and Next.js, as well as Mobile development with React Native, and Backend development with Node.js and Express.js.
 
