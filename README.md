@@ -13,10 +13,9 @@
 
 ### 📘 About Me 
 ### Hello 👋, I'm [Halil ibrahim](https://www.linkedin.com/in/halilxibrahim/), a Software Developer 
-### 3+ years experience
-### 🎯 JavaScript, React and React Native Specialist | C++, Python
-### 💻 React & React Native Specialist
-### 🦿 AI & Computer Vision Enthusiast
+### 🚀  JavaScript/ TypeScript | C++ & Python
+### 💻 JavaScript, React and React Native Specialist
+### 🤖 Interested in 🦾 AI & 🦿Embedded Software
 
 <br/>
 👋 Hello, I'm Halil ibrahim, a seasoned Software Developer with 3+ experience, specializing in creating robust digital solutions for real-world challenges.
