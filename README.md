@@ -13,7 +13,7 @@
 
 ### 📘 About Me 
 ### Hello 👋, I'm [Halil ibrahim](https://www.linkedin.com/in/halilxibrahim/), a Software Developer 
-### 🚀  JavaScript/ TypeScript | C++ & Python
+### 🚀  JavaScript/ TypeScript | Python
 ### 💻 JavaScript, React and React Native Specialist
 ### 🤖 Interested in 🦾 AI & 🦿Embedded Software
 
