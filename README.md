@@ -15,7 +15,9 @@
 ### Hello 👋, I'm [Halil ibrahim](https://www.linkedin.com/in/halilxibrahim/), a Software Developer 
 ### 🚀  JavaScript/ TypeScript | Python
 ### 💻 JavaScript, React and React Native Specialist
-### 🤖 Interested in 🦾 AI & 🦿Embedded Software
+### 🧑‍💻 Development Mobile and Web Product
+### 🤖 AI 🦾 ML Enthusiast
+
 
 <br/>
 👋 Hello, I'm Halil ibrahim, a seasoned Software Developer with 3+ experience, specializing in creating robust digital solutions for real-world challenges.
