@@ -1,9 +1,5 @@
-
-<img width="1390" alt="Ekran Resmi 2024-10-02 10 19 58" src="https://github.com/user-attachments/assets/dfa0c019-b0ac-4780-8b53-d1debc1b76a3">
-
 # 💫 About Me:
-Hello 👋, I'm Halil ibrahim <br>🧑🏻‍💻 Software Developer<br>📍 Ankara, Turkey<br><br>🚀 JavaScript / TypeScript | Python / C#<br>💻 Expert in React & React Native<br>🧑‍💻 Development Mobile and Web Product<br>🤖 AI 🦾 ML Enthusiast
-
+<img width="1390" alt="Ekran Resmi 2024-10-02 10 19 58" src="https://github.com/user-attachments/assets/dfa0c019-b0ac-4780-8b53-d1debc1b76a3">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/halil.coding/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halilxibrahim/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@halilxibrahim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/halilxibrahim_) 
