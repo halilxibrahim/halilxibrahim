@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello 👋, I'm Halil ibrahim, a Software Developer<br>🧑🏻‍💻 Software Developer<br>📍 Ankara, Turkey<br><br>🚀 JavaScript / TypeScript | Python / C#<br>💻 Expert in React & React Native<br>🧑‍💻 Development Mobile and Web Product<br>🤖 AI 🦾 ML Enthusiast
+Hello 👋, I'm Halil ibrahim <br>🧑🏻‍💻 Software Developer<br>📍 Ankara, Turkey<br><br>🚀 JavaScript / TypeScript | Python / C#<br>💻 Expert in React & React Native<br>🧑‍💻 Development Mobile and Web Product<br>🤖 AI 🦾 ML Enthusiast
 
 
 ## 🌐 Socials:
