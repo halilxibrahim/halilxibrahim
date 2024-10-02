@@ -1,69 +1,58 @@
+<h3 align="center">Hello 👋, I'm Halil ibrahim, a Software Developer<br>🚀 JavaScript/ TypeScript | Python<br>💻 JavaScript, React and React Native Specialist<br>🧑‍💻 Development Mobile and Web Product<br>🤖 AI 🦾 ML Enthusiast</h3>
 
-<h2 align="center">Hi there👋, This is Halil ibrahim</h2>
+###
 
-<h2 align="center"> A Software Developer from Milky Way Galaxy ! 👽</h2>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=halilxibrahim&color=blue" alt="halilxibrahim :: Profile Stats"></a>
-<a href="https://www.linkedin.com/in/halilxibrahim/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-halilxibrahim-blue?style=flat&logo=linkedin"></a> <a href="https://medium.com/@halilxibrahim" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-halilxibrahim-blue?style=flat&logo=medium"></a> 
-<a href="https://www.instagram.com/halil.coding/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-halil.coding-blue?style=flat-square&logo=instagram"></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=halilxibrahim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=halilxibrahim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
+<img align="right" height="150" src="https://creatorspace.imgix.net/users/clgyy9p1g002ps401ap61xzay/cykdYrJ4kMkKCapm-Ekran%2520Resmi%25202024-03-02%252012.40.48.png?w=750&h=750"  />
 
+###
 
-### 📘 About Me 
-### Hello 👋, I'm [Halil ibrahim](https://www.linkedin.com/in/halilxibrahim/), a Software Developer 
-### 🚀  JavaScript/ TypeScript | Python
-### 💻 JavaScript, React and React Native Specialist
-### 🧑‍💻 Development Mobile and Web Product
-### 🤖 AI 🦾 ML Enthusiast
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+</div>
 
+###
 
-<br/>
-👋 Hello, I'm Halil ibrahim, a seasoned Software Developer with 3+ experience, specializing in creating robust digital solutions for real-world challenges.
+<div align="left">
+  <a href="https://www.linkedin.com/in/halilxibrahim/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/halil.coding/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://medium.com/@halilxibrahim" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+</div>
 
-🎯 My core expertise lies in JavaScript and TypeScript, along with proficiency in OOP Languages such as C++ and Python.
+###
 
-🚀 I excel in Frontend development using HTML/CSS, Tailwind CSS, JavaScript, TypeScript, React.js, and Next.js, as well as Mobile development with React Native, and Backend development with Node.js and Express.js.
+<br clear="both">
 
-💻 I'm well-versed in various databases including MySQL, PostgreSQL, MongoDB, and Firebase, and adept at working with APIs like GraphQL, JSON, and REST.
+<img src="https://raw.githubusercontent.com/halilxibrahim/halilxibrahim/output/snake.svg" alt="Snake animation" />
 
-📊 Additionally, I have hands-on experience in data visualization using D3, Google Charts, and Chart.js.
-
-🔧 Beyond development, I have a strong background in designing architecture, managing development teams, and facilitating communication between stakeholders.
-
-🌐 Explore my work: bento.me/halilibrahim
-
-🔍 Curiosity and logic drive my dedication to this dynamic field, constantly pushing me to learn, test, analyze, and adapt.
-
-
-
-- 📝 I regularly write articles on [My Medium Page](https://medium.com/@halilxibrahim) 
-
-- 📫 How to reach me **halil.kamaci@icloud.com**
-
----
-
-
-<h3 align="center">My GitHub Stats 📊 </h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=halilxibrahim&show_icons=true&theme=synthwave" alt="Halil ibrahim :: Profile Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilxibrahim&langs_count=10&theme=tokyonight&layout=compact" alt="Halil ibrahim :: Top Langs" />
-</p>
-
-
-
-<!--
-**halilxibrahim/halilxibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
