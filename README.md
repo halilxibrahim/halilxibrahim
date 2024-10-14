@@ -1,8 +1,14 @@
 # 💫 About Me:
-<img width="1434" alt="Ekran Resmi 2024-10-14 16 30 12" src="https://github.com/user-attachments/assets/821d527c-3c76-46fb-a0c4-a40516cb8e0a">
-
-<img width="1434" alt="Ekran Resmi 2024-10-14 16 31 29" src="https://github.com/user-attachments/assets/ba2011e6-3551-4dec-a22f-88c217be7bf6">
-
+🧑🏻‍💻 Software Developer
+<br/>
+📍 Ankara, Turkey
+<br/>
+<br/>
+💻 3+ Years Expert in JavaScript / TypeScript | React & React Native
+<br/>
+🧑‍💻 Development Web and Mobile Product
+<br/>
+🤖 AI 🦾 ML Enthusiast
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/halil.coding/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halilxibrahim/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@halilxibrahim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/halilxibrahim_) 
