@@ -4,7 +4,7 @@
 📍 Ankara, Turkey
 <br/>
 <br/>
-💻 3+ Years Expert in JavaScript / TypeScript | React & React Native
+💻 3+ Years Expert in JavaScript / TypeScript | React, Next.js & React Native |
 <br/>
 🧑‍💻 Development Web and Mobile Product
 <br/>
