@@ -1,6 +1,8 @@
 # 💫 About Me:
 🧑🏻‍💻 Software Developer | 📍 Ankara, Turkey  
+
 💻 3+ Years experience in JavaScript / TypeScript / Node.js  | React & React Native 
+
 🤖 AI/ ML, Robotics, Aviation Enthusiast  
 
 I'm Halil Ibrahim, a Software Developer with 3+ years of experience in creating dynamic web and mobile applications. I specialize in Full-Stack Development (JavaScript, TypeScript, React.js, Next.js, Node.js, Python/Django) and React Native for cross-platform mobile apps. I'm passionate about AI and Machine Learning, integrating LLMs and AI-driven solutions to enhance applications.  
