@@ -1,17 +1,15 @@
 # 💫 About Me:
-🧑🏻‍💻 Software Developer | 📍 Ankara, Turkey  
+🧑🏻‍💻 **Software Developer**  
+💻 **Full-Stack Developer**  
+🤖 **AI/ML, Robotics & Aviation Enthusiast**
 
-💻 3+ Years experience in JavaScript / TypeScript / Node.js  | React & React Native 
+Hi, I'm Halil Ibrahim! With 3+ years of experience, I specialize in creating modern web and mobile applications using **JavaScript/TypeScript**. Passionate about building AI-powered applications and innovative solutions.
 
-🤖 AI/ ML, Robotics, Aviation Enthusiast  
-
-I'm Halil Ibrahim, a Software Developer with 3+ years of experience in creating dynamic web and mobile applications. I specialize in Full-Stack Development (JavaScript, TypeScript, React.js, Next.js, Node.js, Python/Django) and React Native for cross-platform mobile apps. I'm passionate about AI and Machine Learning, integrating LLMs and AI-driven solutions to enhance applications.  
-
-### Skills:  
-• **Full-Stack Development:** HTML/CSS, Tailwind, JavaScript, TypeScript, React.js, Next.js, Node.js, Python/Django  
-• **Mobile Apps:** React Native for cross-platform iOS/Android apps  
-• **API Integration:** GraphQL, REST, JSON  
-• **AI & ML Integration:** OpenAI API, Anthropic API, Hugging Face (BERT, T5), LLAMA, TensorFlow.js, PyTorch, Google Cloud AI (Vision, NLP, AutoML), Microsoft Azure Cognitive Services, DeepAI API  
+### 🛠️ Expertise:  
+• **Frontend Development:** React.js, Next.js, Vue.js, Tailwind CSS  
+• **Backend Development:** Node.js, Python/Django, API Integration (REST/GraphQL)  
+• **Mobile Development:** React Native (Cross-platform iOS/Android)  
+• **AI & ML Integration:** OpenAI API, Anthropic API, Hugging Face (BERT, T5), LLAMA, TensorFlow.js, PyTorch, Google Cloud AI (Vision, NLP, AutoML),Microsoft Azure Cognitive Services, DeepAI API
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/halil.coding/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halilxibrahim/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@halilxibrahim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/halilxibrahim_) 
