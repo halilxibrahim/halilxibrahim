@@ -1,6 +1,6 @@
 # 💫 About Me:
 🧑🏻‍💻 **Software Developer**  
-💻 ** 3+ Years Experience JavaScript | React.js, React Native | Node.js**  
+💻 **3+ Years Experience JavaScript | React.js, React Native | Node.js**  
 🤖 **AI/ML, Robotics & Aviation Enthusiast**
 
 Hi, I'm Halil Ibrahim! With 3+ years of experience, I specialize in creating modern web and mobile applications using **JavaScript/TypeScript**. Passionate about building AI-powered applications and innovative solutions.
