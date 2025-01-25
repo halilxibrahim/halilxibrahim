@@ -5,11 +5,6 @@
 
 Hi, I'm Halil Ibrahim! With 3+ years of experience, I specialize in creating modern web and mobile applications using **JavaScript/TypeScript**. Passionate about building AI-powered applications and innovative solutions.
 
-### 🛠️ Expertise:  
-• **Frontend Development:** React.js, Next.js, Vue.js, Tailwind CSS  
-• **Backend Development:** Node.js, Python/Django, API Integration (REST/GraphQL)  
-• **Mobile Development:** React Native (Cross-platform iOS/Android)  
-• **AI & ML Integration:** OpenAI API, Anthropic API, Hugging Face (BERT, T5), LLAMA, TensorFlow.js, PyTorch, Google Cloud AI (Vision, NLP, AutoML),Microsoft Azure Cognitive Services, DeepAI API
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/halil.coding/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halilxibrahim/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@halilxibrahim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/halilxibrahim_) 
