@@ -1,24 +1,38 @@
-# 💫 About Me:
-🧑🏻‍💻 **Software Developer**  
-💻 **3+ Years Experience JavaScript | React.js, React Native | Node.js**  
-🤖 **AI/ML, Robotics & Aviation Enthusiast**
+### 🚀 Software Developer 
+📍 Ankara, Türkiye | ✉️ halil.kamaci@icloud.com | 🌐 [Portfolio](https://halilxibrahim.vercel.app)  
 
-Hi, I'm Halil Ibrahim! With 3+ years of experience, I specialize in creating modern web and mobile applications using **JavaScript/TypeScript**. Passionate about building AI-powered applications and innovative solutions.
+#### 💻 **Core Expertise**  
+**Frontend:** React.js | Next.js | Vue.js | React Native (Tailwind CSS, Chart.js)  
+**Backend:** Node.js | Django | Nest.js (REST/GraphQL, Microservices)  
+**AI/ML:** Computer Vision (NVIDIA Jetson Nano) | OpenAI/Hugging Face Integrations  
 
+#### 🏆 **Proud Achievements**  
+✅ **Teknofest Champion** - Led #1 software team in Electric Vehicle Races  
+✅ **Global Finalist** at AUVSI SUAS (USA) - UAV image processing with Python/OpenCV  
+✅ **30% Faster Deployments** via React/Next.js optimization  
+✅ **Fortune 500 Solutions** for Beymen, Allialianz, Unilever  
+
+#### 🛠️ **Key Projects**  
+▸ **Fintech Trading Interface** - Real-time data visualization (Next.js + Chart.js)  
+▸ **Enterprise Cloud Platform** - Next.js/React Native integrated drive system  
+▸ **Autonomous UAV Navigation** - Computer vision for competition-winning drones  
+
+#### 🌍 **Open-Source Impact**  
+- 50+ commits to Open Source Projects
+- **React Turkish Documentation** contributor
+- Authored performance guides with 10k+ monthly dev reach  
+
+#### 📚 **Education**  
+`🎓` Bachelor in Management Information Systems - Bartın University  
+`📜` Harvard CS50 Certified | Meta Certified Full-Stack Developer  
+
+#### 🔥 **Passion Engineering**  
+▸ Robotics/Embedded Systems tinkering  
+▸ Enthusiast Aviation Tech
+▸ LLM applications in edge computing  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/halil.coding/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halilxibrahim/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@halilxibrahim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/halilxibrahim_) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 
 # 📊 GitHub Stats:
