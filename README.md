@@ -26,10 +26,11 @@
 `🎓` Bachelor in Management Information Systems - Bartın University  
 `📜` Harvard CS50 Certified | Meta Certified Full-Stack Developer  
 
-#### 🔥 **Passion Engineering**  
-▸ Robotics/Embedded Systems tinkering  
-▸ Enthusiast Aviation Tech
-▸ LLM applications in edge computing  
+#### 🔥 **Passion Projects**  
+When not coding, I'm:
+- Tinkering with robotics/embedded systems
+- Enthusiast Aviation Tech
+- Exploring LLM applications in edge computing
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/halil.coding/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halilxibrahim/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@halilxibrahim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/halilxibrahim_) 
