@@ -3,7 +3,7 @@
 
 #### 💻 **Core Expertise**  
 **Frontend:** React.js | Next.js | Vue.js | React Native (Tailwind CSS, Chart.js)  
-**Backend:** Node.js | Django | Nest.js (REST/GraphQL, Microservices)  
+**Backend:** Node.js/Express.js | Django | (REST/GraphQL, Microservices)  
 **AI/ML:** Computer Vision (NVIDIA Jetson Nano) | OpenAI/Hugging Face Integrations  
 
 #### 🏆 **Proud Achievements**  
