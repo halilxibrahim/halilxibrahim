@@ -20,7 +20,6 @@
 #### 🌍 **Open-Source Impact**  
 - 50+ commits to Open Source Projects
 - **React Turkish Documentation** contributor
-- Authored performance guides with 10k+ monthly dev reach  
 
 #### 📚 **Education**  
 `🎓` Bachelor in Management Information Systems - Bartın University  
