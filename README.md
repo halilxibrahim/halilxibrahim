@@ -1,5 +1,4 @@
 ### 🚀 Software Developer 
-📍 Ankara, Türkiye | ✉️ halil.kamaci@icloud.com | 🌐 [Portfolio](https://halilxibrahim.vercel.app)  
 **3+ Years Specializing in JavaScript/TypeScript, React/React Native & Node.js ecosystems, I build scalable web/mobile apps**
 #### 💻 **Core Expertise**  
 **Frontend:** React.js | Next.js | Vue.js | React Native (Tailwind CSS, Chart.js)  
