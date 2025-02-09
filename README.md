@@ -1,9 +1,11 @@
 ### 🚀 Software Developer 
 **3+ Years Specializing in JavaScript/TypeScript, React/React Native & Node.js ecosystems, I build scalable web/mobile apps**
 #### 💻 **Core Expertise**  
+**Languages:** JavaScript | TypeScript | Python<br>
 **Frontend:** React.js | Next.js | React Native (Tailwind CSS, Chart.js)  
-**Backend:** Node.js (Express.js, Nest.js) | (REST/GraphQL, Microservices)  
-**AI/ML:** Computer Vision (NVIDIA Jetson Nano) | OpenAI/Hugging Face etc LLM Integrations  
+**Backend:** Node.js (Express.js) | (REST/GraphQL, Microservices)  
+**Databases:** PostgreSQL, MongoDB, Firebase, Redis<br>
+**Tools:**  Git, Docker, AWS, OpenAI/LLM APIs
 
 #### 🏆 **Proud Achievements**  
 ✅ **Teknofest Champion** - Led #1 software team in Electric Vehicle Races  
