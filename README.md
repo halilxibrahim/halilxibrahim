@@ -2,7 +2,7 @@
 **3+ Years Specializing in JavaScript/TypeScript, React/React Native & Node.js ecosystems, I build scalable web/mobile apps**
 #### 💻 **Core Expertise**  
 **Frontend:** React.js | Next.js | React Native (Tailwind CSS, Chart.js)  
-**Backend:** Node.js ( Express.js, NestJS ) | (REST/GraphQL, Microservices)  
+**Backend:** Node.js (Express.js, Nest.js) | (REST/GraphQL, Microservices)  
 **AI/ML:** Computer Vision (NVIDIA Jetson Nano) | OpenAI/Hugging Face etc LLM Integrations  
 
 #### 🏆 **Proud Achievements**  
