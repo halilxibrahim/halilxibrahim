@@ -2,7 +2,7 @@
 **3+ Years Specializing in JavaScript/TypeScript, React/React Native & Node.js ecosystems, I build scalable web/mobile apps**
 #### 💻 **Core Expertise**  
 **Languages:** JavaScript | TypeScript | Python<br>
-**Frontend:** React.js | Next.js | React Native (Tailwind CSS, Chart.js)  
+**Frontend:** React.js | Next.js | React Native (Pixel-perfect UIs, Tailwind CSS, Chart.js etc)<br>
 **Backend:** Node.js (Express.js) | (REST/GraphQL, Microservices)  
 **Databases:** PostgreSQL, MongoDB, Firebase, Redis<br>
 **Tools:**  Git, Docker, AWS, OpenAI/LLM APIs
