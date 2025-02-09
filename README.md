@@ -1,8 +1,8 @@
 ### 🚀 Software Developer 
 **3+ Years Specializing in JavaScript/TypeScript, React/React Native & Node.js ecosystems, I build scalable web/mobile apps**
 #### 💻 **Core Expertise**  
-**Frontend:** React.js | Next.js | Vue.js | React Native (Tailwind CSS, Chart.js)  
-**Backend:** Node.js/Express.js | Python/ Django | (REST/GraphQL, Microservices)  
+**Frontend:** React.js | Next.js | React Native (Tailwind CSS, Chart.js)  
+**Backend:** NestJS (Node.js) | (REST/GraphQL, Microservices)  
 **AI/ML:** Computer Vision (NVIDIA Jetson Nano) | OpenAI/Hugging Face etc LLM Integrations  
 
 #### 🏆 **Proud Achievements**  
