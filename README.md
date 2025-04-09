@@ -20,7 +20,7 @@
 
 #### 🌍 **Open-Source Impact**  
 - 50+ commits to Open Source Projects
-- **React Turkish Documentation** contributor
+- **React Turkish Documentation** : https://github.com/reactjs/tr.react.dev/pull/566 contributor
 
 #### 📚 **Education**  
 `🎓` Bachelor in Management Information Systems - Bartın University  
