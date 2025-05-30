@@ -27,7 +27,6 @@
 `📜` Harvard CS50 Certified | Meta Certified Full-Stack Developer  
 
 #### 🔥 **Passion Projects**  
-When not coding, I'm:
 - Learning C++ and developing myself for future projects in autonomous systems and embedded technologies.
 - Tinkering with robotics and embedded systems.
 - An enthusiast of Aviation Technology.
