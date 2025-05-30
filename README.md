@@ -1,11 +1,11 @@
 ### 🚀 Software Developer 
-**3+ Years Specializing in JavaScript/TypeScript, React/React Native & Node.js ecosystems, I build scalable web/mobile apps**
+**Software Developer | 3+ Yrs Frontend & React Native | Built Scalable, AI-Driven Apps | Aspiring C++ & Embedded/Autonomous Tech**
 #### 💻 **Core Expertise**  
-**Languages:** JavaScript | TypeScript | Python<br>
+**Languages:** JavaScript | TypeScript <br>
 **Frontend:** React.js | Next.js | React Native (Pixel-perfect UIs, Tailwind CSS, Chart.js etc)<br>
-**Backend:** Node.js (Express.js) | (REST/GraphQL, Microservices)  
-**Databases:** PostgreSQL, MongoDB, Firebase, Redis<br>
-**Tools:**  Git, Docker, AWS, OpenAI/LLM APIs
+**Backend:** Node.js | (REST/GraphQL APIs, Microservices)  
+**Databases:** PostgreSQL, MongoDB, Firebase, Supabase<br>
+**Tools:**  Git, Docker, AWS, OpenAI/LLM APIs, MCP (Model Context Protocol)
 
 #### 🏆 **Proud Achievements**  
 ✅ **Teknofest Champion** - Led #1 software team in Electric Vehicle Races  
@@ -28,9 +28,10 @@
 
 #### 🔥 **Passion Projects**  
 When not coding, I'm:
-- Tinkering with robotics/embedded systems
-- Enthusiast Aviation Tech
-- Exploring AI / LLM / AI Agent applications
+- Learning C++ and developing myself for future projects in autonomous systems and embedded technologies.
+- Tinkering with robotics and embedded systems.
+- An enthusiast of Aviation Technology.
+- Exploring LLM applications in edge computing.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/halil.coding/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halilxibrahim/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@halilxibrahim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/halilxibrahim_) 
 
