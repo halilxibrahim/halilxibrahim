@@ -1,5 +1,5 @@
 ### 🚀 Software Developer 
-**Software Developer | 3+ Yrs Frontend & React Native | Built Scalable, AI-Driven Apps | Aspiring C++ & Embedded/Autonomous Tech**
+**Software Developer | 3+ Yrs Frontend & React Native | Built Scalable, AI-Driven Apps | Aspiring C++ & Embedded/ Autonomous & AI**
 #### 💻 **Core Expertise**  
 **Languages:** JavaScript | TypeScript <br>
 **Frontend:** React.js | Next.js | React Native (Pixel-perfect UIs, Tailwind CSS, Chart.js etc)<br>
