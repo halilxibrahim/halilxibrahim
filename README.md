@@ -1,5 +1,5 @@
 ### 🚀 Software Developer 
-**Software Developer | 3+ Yrs Frontend & React Native | Built Scalable, AI-Driven Apps | Aspiring C++ & Embedded/ Autonomous & AI**
+**Software Developer | Frontend & Mobile (React Native) | Built Scalable, AI-Driven Apps | Exploring Embedded Software, AI & Autonomy**
 #### 💻 **Core Expertise**  
 **Languages:** JavaScript | TypeScript <br>
 **Frontend:** React.js | Next.js | React Native (Pixel-perfect UIs, Tailwind CSS, Chart.js etc)<br>
@@ -9,7 +9,7 @@
 
 #### 🏆 **Proud Achievements**  
 ✅ **Teknofest Champion** - Led #1 software team in Electric Vehicle Races  
-✅ **Global Finalist** at AUVSI SUAS (USA) - UAV image processing with Python/OpenCV  
+✅ **Global Finalist** at AUVSI SUAS (USA) - UAV image processing with Python / C++, OpenCV
 ✅ **30% Faster Deployments** via React/Next.js optimization  
 ✅ **Fortune 500 Solutions** for Beymen, Allianz, Unilever  
 
