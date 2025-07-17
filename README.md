@@ -10,6 +10,7 @@
 #### 🏆 **Proud Achievements**  
 ✅ **Teknofest Champion** - Led #1 software team in Electric Vehicle Races  
 ✅ **Global Finalist** at AUVSI SUAS (USA) - UAV image processing with Python / C++, OpenCV
+
 ✅ **30% Faster Deployments** via React/Next.js optimization  
 ✅ **Fortune 500 Solutions** for Beymen, Allianz, Unilever  
 
