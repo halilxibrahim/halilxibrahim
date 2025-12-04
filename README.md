@@ -37,5 +37,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=halilxibrahim/halilxibrahim&type=date&legend=top-left)](https://www.star-history.com/#halilxibrahim/halilxibrahim&type=date&legend=top-left)
-
+[![Star History Chart](https://api.star-history.com/svg?repos=halilxibrahim/halilxibrahim,halilxibrahim/basic-llm,halilxibrahim/taskflowio,halilxibrahim/health-assistant-ai,halilxibrahim/draw-web-app&type=date&legend=top-left)](https://www.star-history.com/#halilxibrahim/halilxibrahim&halilxibrahim/basic-llm&halilxibrahim/taskflowio&halilxibrahim/health-assistant-ai&halilxibrahim/draw-web-app&type=date&legend=top-left)
