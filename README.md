@@ -35,12 +35,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/halil.coding/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halilxibrahim/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@halilxibrahim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/halilxibrahim_) 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=halilxibrahim&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=halilxibrahim&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Star History
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=halilxibrahim&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![Star History Chart](https://api.star-history.com/svg?repos=halilxibrahim/halilxibrahim&type=date&legend=top-left)](https://www.star-history.com/#halilxibrahim/halilxibrahim&type=date&legend=top-left)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
