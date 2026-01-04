@@ -1,4 +1,4 @@
-### 🚀 Software Developer 
+### Software Developer 
 **Software Developer | Frontend & React Native | Built Scalable, AI-Driven Apps | Exploring AI, Gen AI**
 #### 💻 **Core Expertise**  
 **Languages:** JavaScript | TypeScript | Python <br>
