@@ -1,33 +1,89 @@
-### Software Developer 
-**Software Developer | Frontend & React Native | Built Scalable, AI-Driven Apps | Exploring AI, Gen AI**
-#### 💻 **Core Expertise**  
-**Languages:** JavaScript | TypeScript | Python <br>
-**Frontend:** React.js | React Native (Pixel-perfect UIs, Tailwind CSS, Chart.js )<br>
-**Backend:** Node.js | (REST/GraphQL APIs, Microservices)  
-**Databases:** PostgreSQL, MongoDB, Firebase, Supabase<br>
-**Tools:**  Git, Docker, AWS, OpenAI/LLM APIs, MCP (Model Context Protocol)
+# 👋 Hi, I’m **Halil İbrahim Kamacı**
 
-#### 🏆 **Proud Achievements**  
-✅ **Teknofest Champion** - Led #1 software team in Electric Vehicle Races  
-✅ **Global Finalist** at AUVSI SUAS (USA) - UAV image processing with Python / OpenCV
+## **Frontend & React Native Developer**
+> Building **production-grade web and mobile applications** with a strong focus on **performance, scalability, and product quality**.
 
-✅ **30% Faster Deployments** via React/Next.js optimization  
-✅ **Fortune 500 Solutions** for Beymen, Allianz, Unilever  
+I’m a **Frontend & React Native Developer** with **4+ years of experience** building real-world applications using **React, React Native, and TypeScript**.  
+I specialize in **scalable UI architecture**, **cross-platform mobile development**, and **high-performance user experiences**.
 
-#### 🛠️ **Key Projects**  
-▸ **Fintech Trading Interface** - Real-time data visualization (Next.js + Chart.js)  
-▸ **Enterprise Cloud Platform** - Next.js/React Native integrated drive system  
-▸ **Autonomous UAV Navigation** - Computer vision for competition-winning drones  
+I also build **AI-enabled product features**, integrating **LLMs** into mobile applications to support **context-aware interactions** and **real-time experiences**.
 
-#### 🌍 **Open-Source Impact**  
-- 50+ commits to Open Source Projects
-- **React Turkish Documentation** : https://github.com/reactjs/tr.react.dev/pull/566 contributor
+---
 
-#### 📚 **Education**  
-`🎓` Bachelor in Management Information Systems - Bartın University  
-`📜` Harvard CS50 Certified | Meta Certified Full-Stack Developer  
+## 💻 **Core Expertise**
 
-#### 🔥 **Passion Projects**  
-- Tinkering with robotics and embedded systems.
-- An enthusiast of Aviation Technology.
-- ▸ Exploring AI, LLM, Gen AI, MCP.
+### **Languages**
+- **JavaScript**
+- **TypeScript**
+
+### **Frameworks & Libraries**
+- **React**
+- **React Native**
+- **Next.js**
+
+### **UI & Performance**
+- Pixel-perfect UI development  
+- Reusable component systems  
+- Responsive design & performance optimization  
+
+### **Backend Integrations**
+- API integrations  
+- Authentication flows  
+- Real-time data handling  
+- Supabase, Firebase
+
+### **Tools & Platforms**
+- **Git**, **GitHub Actions**
+- **Expo (EAS Build & Submit)**
+- **iOS App Distribution** (App Store Connect, TestFlight)
+
+---
+
+## 🏆 **Achievements**
+
+- 🥇 **Teknofest Software Champion**  
+  Led the **#1 software team** in Electric Vehicle Races.
+
+- 🌍 **AUVSI SUAS (USA) – Global Finalist**  
+  Delivered **mission-critical software** for autonomous aerial systems.
+
+- 🏢 Contributed to **enterprise production systems** used by  
+  **Beymen**, **Allianz**, and **Unilever**
+
+---
+
+## 🛠️ **Selected Projects**
+
+### 🚀 **AI-Enabled Mobile Application**
+- Context-aware user experiences powered by **LLM integrations**
+- Real-time interactions in a production mobile app  
+- **React Native + Supabase**
+
+### 📊 **Fintech Trading Interface**
+- Real-time market data visualization dashboards  
+- Built with **Next.js** and **Chart.js**
+
+### 🏗️ **Enterprise Web & Mobile Platforms**
+- Cross-platform applications for operational workflows  
+- Used by large-scale enterprise clients
+
+---
+
+## 🌍 **Open-Source Contributions**
+- ✅ **50+ contributions** to open-source projects  
+- 📖 Contributor to **React Turkish Documentation**
+
+---
+
+## 📚 **Education & Certifications**
+- 🎓 **B.Sc. in Management Information Systems** – Bartın University  
+- 📜 **CS50: Introduction to Computer Science** – Harvard University  
+- 🏅 **Meta Front-End Developer Professional Certificate**  
+- 🏅 **Meta React Native Developer Professional Certificate**
+
+---
+
+## 🚀 **Interests**
+- 🤖 AI-enabled product development  
+- ⚡ Real-time systems & mobile performance  
+- ✈️ Aviation and autonomous systems
