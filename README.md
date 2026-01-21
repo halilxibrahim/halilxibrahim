@@ -22,7 +22,7 @@ Building production-grade web and mobile applications with a focus on performanc
 ## 🏆 Highlights
 
 - 🥇 **Teknofest Software Champion** — Led the #1 software team in Electric Vehicle Races
-- 🌍 **AUVSI SUAS (USA) Global Finalist** — Mission-critical software for autonomous aerial systems
+- 🌍 **AUVSI SUAS (USA)** — Mission-critical software for autonomous aerial systems
 - 🏢 **Enterprise Impact** — Shipped production systems used by Beymen, Allianz & Unilever
 - 📖 **Open Source** — 50+ contributions, React Turkish Documentation contributor
 
