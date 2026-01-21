@@ -47,7 +47,7 @@ Building production-grade web and mobile applications with a focus on performanc
 
 ## 📚 Certifications
 
-- 🎓 B.Sc. Management Information Systems — Bartın University
+- 🎓 Bachelor Degree, Management Information Systems — Bartın University
 - 📜 CS50: Introduction to Computer Science — Harvard
 - 🏅 Meta Front-End Developer Professional Certificate
 - 🏅 Meta React Native Developer Professional Certificate
