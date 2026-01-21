@@ -41,9 +41,6 @@ Building production-grade web and mobile applications with a focus on performanc
   <img src="https://github-readme-stats.vercel.app/api?username=halilxibrahim&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=halilxibrahim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ## 📚 Certifications
 
