@@ -1,3 +1,5 @@
+📍 Open to Frontend & React Native roles (Remote / Hybrid)
+
 # 👋 Hi, I’m **Halil İbrahim Kamacı**
 
 ## **Frontend & React Native Developer**
