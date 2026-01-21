@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Halil Ibrahim Kamacı
+# 👋 Hi, I'm Halil ibrahim
 
 **Frontend & React Native Developer** | 4+ years of experience
 
