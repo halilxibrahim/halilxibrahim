@@ -1,4 +1,4 @@
-📍 Open to Frontend & React Native roles (Remote / Hybrid)
+📍 Open to Frontend & React Native roles (Remote / Hybrid / Onsite)
 
 # 👋 Hi, I’m **Halil İbrahim Kamacı**
 
