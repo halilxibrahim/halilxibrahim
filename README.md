@@ -14,14 +14,6 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-## Highlights
-
-- Teknofest Electric Vehicle Races — 1st Place in Software
-- AUVSI SUAS (Maryland, USA) — UAV software development
-- Shipped apps for Beymen, Allianz & Unilever.
-- Built AI-powered mobile apps with LLM & LiveKit integrations
-- CS50 (Harvard) | Meta Frontend & React Native Certificates
-
 ## GitHub Stats
 
 <p align="center">
