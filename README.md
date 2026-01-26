@@ -1,4 +1,6 @@
 # Hi, I'm Halil ibrahim
+Software Developer | React, React Native, TypeScript, JavaScript | Exploring AI
+
 
 **Software Developer** with 4+ years of experience building production-grade web and mobile apps with React, React Native, and TypeScript. Focused on scalable frontend architecture, AI integrations, and real-time systems.
 
