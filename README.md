@@ -76,14 +76,6 @@ Building production-grade web and mobile apps with React, React Native, and Type
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=halilxibrahim&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
 **Open to new opportunities** · [halilkamaci.com](https://halilkamaci.com)
 
 </div>
