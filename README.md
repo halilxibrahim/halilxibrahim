@@ -8,7 +8,7 @@
 [![Website](https://img.shields.io/badge/-halilkamaci.com-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://halilkamaci.com)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halil.kamaci@icloud.com)
 
-`4 Years Experience` · `10+ Apps Shipped` · `5+ Enterprise Clients`
+`4 Years Experience` · `10+ Apps Shipped` 
 
 </div>
 
@@ -69,7 +69,7 @@ Building production-grade web and mobile apps with React, React Native, and Type
 
 ## 📜 Certifications
 
-**CS50** (Harvard) · **Frontend Developer** (Meta) · **React Native Developer** (Meta) · **Front End Apps with React** (edX)
+· **Frontend Developer** (Meta) · **React Native Developer** (Meta) · **Front End Apps with React** (edX)
 
 ---
 
