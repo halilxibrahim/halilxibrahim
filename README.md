@@ -16,8 +16,14 @@
 </div>
 
 ---
+Software Developer with 4 years of experience specializing in React.js and React Native.
+I build production-grade web dashboards and cross-platform mobile applications with a strong focus on scalability, performance, and clean architecture.
 
-Building production-grade web and mobile apps with React, React Native, and TypeScript. Shipped apps on **App Store** & **Play Store** for brands like **Beymen**, **Allianz**, and **Unilever**. Won **1st place in Software at Teknofest** and represented Turkey at **AUVSI SUAS** in the USA.
+Developed and maintained React.js applications for enterprise clients including Beymen, Allianz, and Unilever.
+Architected and delivered multiple React Native applications from scratch, owning the full lifecycle from planning to production release.
+
+Beyond professional work, I led software teams in international competitions — earning 1st place at Teknofest and representing Turkey at AUVSI SUAS (USA).
+
 
 ---
 
@@ -47,16 +53,6 @@ Building production-grade web and mobile apps with React, React Native, and Type
 ![Expo](https://img.shields.io/badge/-Expo%20EAS-000020?style=flat-square&logo=expo&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![TestFlight](https://img.shields.io/badge/-TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white)
-
----
-
-## 📱 Shipped Apps
-
-<div align="center">
-
-[![Noor](https://img.shields.io/badge/-Noor%20–%20Quran%20Study-000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/quran-study-learning-app-noor/id6751530899)
-[![Lora](https://img.shields.io/badge/-Lora%20–%20AI%20Companion-000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/tr/app/ai-friend-companion-lora/id6748981543)
-[![KapKap](https://img.shields.io/badge/-KapKap%20Testi-000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/kapkap-testi-%C3%A7%C3%B6z-hediyeyi-kap/id6753149329)
 
 </div>
 
