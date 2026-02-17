@@ -17,7 +17,7 @@
 
 ---
 Software Developer with 4 years of experience specializing in React.js and React Native.
-I build production-grade web dashboards and cross-platform mobile applications with a strong focus on scalability, performance, and clean architecture.
+I build production-grade web and cross-platform mobile applications with a strong focus on scalability, performance, and clean architecture.
 
 Developed and maintained React.js applications for enterprise clients including Beymen, Allianz, and Unilever.
 Architected and delivered multiple React Native applications from scratch, owning the full lifecycle from planning to production release.
