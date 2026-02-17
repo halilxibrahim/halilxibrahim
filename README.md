@@ -16,7 +16,7 @@
 </div>
 
 ---
-Software Developer with 4 years of experience specializing in React.js and React Native.
+Software Developer with 4 years of experience specializing in Frontend and React Native.
 I build production-grade web and cross-platform mobile applications with a strong focus on scalability, performance, and clean architecture.
 
 Developed and maintained React.js applications for enterprise clients including Beymen, Allianz, and Unilever.
