@@ -8,7 +8,7 @@
 [![Website](https://img.shields.io/badge/-halilkamaci.com-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://halilkamaci.com)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halil.kamaci@icloud.com)
 
-`4 Years Experience` · `10+ Apps Shipped` 
+`4 Years Experience`
 
 ![halilxibrahim-space-shooter](https://github.com/user-attachments/assets/94b2dd21-833f-4336-b8f1-22c3a8022fc1)
 
