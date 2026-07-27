@@ -68,7 +68,6 @@ I am particularly interested in aerospace, manufacturing, connected systems, tel
 ![LLM Integration](https://img.shields.io/badge/-LLM%20Integration-412991?style=flat-square\&logo=openai\&logoColor=white)
 ![AI Applications](https://img.shields.io/badge/-AI--Powered%20Applications-6C63FF?style=flat-square\&logo=openai\&logoColor=white)
 ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-D97757?style=flat-square\&logo=anthropic\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
 
 ### DevOps & Delivery
 
