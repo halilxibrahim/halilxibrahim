@@ -12,7 +12,7 @@
 
 `4+ Years of Software Development Experience`
 
-<img width="1983" height="700" alt="Image" src="https://github.com/user-attachments/assets/d9fb0b8f-e24e-4cd8-868e-8ea2c0e6810c" />
+<img width="1700" height="600" alt="Image" src="https://github.com/user-attachments/assets/13d8f572-c913-4548-85da-1651fb4bece1" />
 A conceptual visualization of the systems, technologies, and engineering areas I work with.
 </div>
 
