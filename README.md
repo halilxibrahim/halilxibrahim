@@ -12,8 +12,8 @@
 
 `4+ Years of Software Development Experience`
 
-![halilxibrahim-space-shooter](https://github.com/user-attachments/assets/94b2dd21-833f-4336-b8f1-22c3a8022fc1)
-
+<img width="1983" height="700" alt="Image" src="https://github.com/user-attachments/assets/d9fb0b8f-e24e-4cd8-868e-8ea2c0e6810c" />
+A conceptual visualization of the systems, technologies, and engineering areas I work with.
 </div>
 
 ---
