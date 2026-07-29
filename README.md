@@ -82,45 +82,6 @@ I am particularly interested in aerospace, manufacturing, connected systems, tel
 
 ---
 
-## 🚀 Selected Work
-
-### Aviation Telemetry Dashboard
-
-Real-time UAV flight monitoring and mission visualization platform built with React and TypeScript.
-
-* Live telemetry simulation
-* Interactive flight map and mission tracking
-* Aviation-style flight instruments
-* Sensor monitoring and alert management
-* Optimized real-time state updates
-
-### Manufacturing & Operations Software
-
-Enterprise applications supporting manufacturing operations and production lines, built with React, TypeScript, Python, and FastAPI.
-
-* MOM/MES workflows
-* Defense electronics manufacturing systems
-* Warehouse and inventory operations
-* Material transfer processes
-* Barcode and reporting systems
-* Python and FastAPI integrations
-* CI/CD and deployment processes
-
-### Enterprise AI Assistant
-
-Internal AI assistant powered by an on-premise open-source language model and integrated with enterprise ERP data and internal knowledge sources.
-
-* Developed the React-based conversational interface and user experience
-* Integrated backend inference APIs with the frontend application
-* Enabled context-aware responses grounded in ERP data, internal documents, and business rules
-* Implemented conversation state, message lifecycle, loading, error handling, and response rendering
-* Contributed to the delivery of a secure AI application operating within the company’s internal network
-
-
-> Professional projects are described at a high level to protect confidential company information.
-
----
-
 ## 🏆 Engineering Background
 
 * 🥇 **Teknofest Electric Vehicle Races** — 1st place in software development
